@@ -1,0 +1,11 @@
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\bin\Debug\netcoreapp3.1\DummyAspForJenkins.exe
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\bin\Debug\netcoreapp3.1\DummyAspForJenkins.deps.json
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\bin\Debug\netcoreapp3.1\DummyAspForJenkins.runtimeconfig.json
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\bin\Debug\netcoreapp3.1\DummyAspForJenkins.runtimeconfig.dev.json
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\bin\Debug\netcoreapp3.1\DummyAspForJenkins.dll
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\bin\Debug\netcoreapp3.1\DummyAspForJenkins.pdb
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\obj\Debug\netcoreapp3.1\DummyAspForJenkins.csprojAssemblyReference.cache
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\obj\Debug\netcoreapp3.1\DummyAspForJenkins.AssemblyInfoInputs.cache
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\obj\Debug\netcoreapp3.1\DummyAspForJenkins.AssemblyInfo.cs
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\obj\Debug\netcoreapp3.1\DummyAspForJenkins.dll
+C:\Projekte\ASP_NET\DummyAspForJenkins\DummyAspForJenkins\obj\Debug\netcoreapp3.1\DummyAspForJenkins.pdb
